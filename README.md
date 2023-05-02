@@ -27,10 +27,4 @@
 - &nbsp;I have previously worked at AMD, which has driven me to enter the semi-conductor world
 - &nbsp;My hobbies are playing making mods for racing simulators, go-karting, and working out
 
-<h1 align="left">
-  Github Stats
-</h1>
-
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamgawlik)](https://github.com/anuraghazra/github-readme-stats)
-
-[![William's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=WilliamGawlik)](https://github.com/anuraghazra/github-readme-stats)
