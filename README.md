@@ -13,5 +13,3 @@
      <img alt="Adobe After Effects" src="https://img.shields.io/badge/Adobe%20After%20Effects-%23121011.svg?logo=Adobe%20After%20Effects&logoColor=white">
      <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-%23121011?logo=obs-studio&logoColor=white">
   </p>
-
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamgawlik)](https://github.com/anuraghazra/github-readme-stats)
