@@ -14,17 +14,4 @@
      <img alt="OBS Studio" src="https://img.shields.io/badge/-OBS-%23121011?logo=obs-studio&logoColor=white">
   </p>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=600&duration=1500&pause=1500&color=F7BA1D&center=true&width=435&lines=Studying to become a software developer;Enjoys creating mods for racing sims" alt="Typing SVG" />
-</a>
-
-</h3>
-
-<h1 align="left">
-  What I'm Up To
-</h1>
-
-- &nbsp;I'm currently a 3rd year Software Development Student
-- &nbsp;I have previously worked at AMD, which has driven me to enter the semi-conductor world
-- &nbsp;My hobbies are playing making mods for racing simulators, go-karting, and working out
-
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamgawlik)](https://github.com/anuraghazra/github-readme-stats)
